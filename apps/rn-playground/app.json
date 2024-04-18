@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "native",
-    "slug": "native",
+    "name": "rn-playground",
+    "slug": "rn-playground",
     "version": "0.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
@@ -15,14 +15,14 @@
     "assetBundlePatterns": ["**/*"],
     "ios": {
       "supportsTablet": true,
-      "bundleIdentifier": "com.anonymous.expo.app"
+      "bundleIdentifier": "com.rn.playground.expo.app"
     },
     "android": {
       "adaptiveIcon": {
         "foregroundImage": "./assets/images/adaptive-icon.png",
         "backgroundColor": "#ffffff"
       },
-      "package": "com.anonymous.expo.app"
+      "package": "com.rn.playground.expo.app"
     },
     "web": {
       "bundler": "metro",

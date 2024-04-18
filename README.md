@@ -1,15 +1,12 @@
-# monorepo-template
+# rn-playground
 
-My opinionated starter template for web apps, built using Turborepo.
+Repo where I test and play with react native features and ideas.  
 
 This repo includes the following packages and apps:
 
 ### Apps and Packages
 
-- `api`: an [Express](https://expressjs.com/) server
-- `app`: a [Next.js](https://nextjs.org/) app
-- `admin`: a [Vite](https://vitejs.dev/) single page app
-- `native`: a [React Native](https://reactnative.dev/) with expo-router app
+- `rn-playground`: a [React Native](https://reactnative.dev/) with expo-router app
 - `@repo/config-eslint`: ESLint configurations used throughout the monorepo
 - `@repo/config-typescript`: tsconfig.json's used throughout the monorepo
 - `@repo/jest-presets`: Jest configurations
